@@ -1,0 +1,3 @@
+# Decision criteria
+
+Analysis of investment options for the construction of a new plant from the point of view of various criteria: minimax/Wald, optimistic, Hurwicz, Bayes-Laplace with both different and equal probabilities and Savage. Investment options are implemented under conditions of uncertainty. The cost of implementation in each variants depend on a set of random factors, with four states of nature that can be distinguished.
